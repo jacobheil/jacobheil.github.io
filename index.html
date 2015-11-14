@@ -76,6 +76,16 @@
         <h1>Hello!</h1>
         <p>I'm using this site to learn my way around bootstrap, so please forgive its sparce (i.e. non-existent) accoutrements. While this site is under construction, please check out my other site.</p>
         <p><a href="http://jacobheil.com/" class="btn btn-primary" role="button">Go!</a> 
+        <script> var jumboHeight = $('.jumbotron').outerHeight();
+function parallax(){
+    var scrolled = $(window).scrollTop();
+    $('.bg').css('height', (jumboHeight-scrolled) + 'px');
+}
+
+$(window).scroll(function(e){
+    parallax();
+});
+</script>
       </div>
     </div>
     </div>
