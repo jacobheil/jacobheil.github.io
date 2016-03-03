@@ -1,7 +1,26 @@
-# Hello!
+# [Start Bootstrap](http://startbootstrap.com/) - [Full](http://startbootstrap.com/template-overviews/full/)
 
-I'm using this repo, and my [github-hosted site](http://jacobheil.github.io/), as my sandbox for Bootstrap scripting/designing. Ostensibly this is the case. In reality it's just parked and I've not really had time to develop it at all. My vision for it is to just have something simple that might one day take the place of my Wordpress front-end as my online professional identity. I might migrate this GitHub repo to my Reclaim server and free this up for some other project. 
+[Full](http://startbootstrap.com/template-overviews/full/) is full page background image HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-Part of my challenge, too, will be in strategically stitching together my web identities. I have [a wordpress at my domain](http://jacobheil.com/) (also a placeholder-under-construction), this site, and [a jekyll instance for my blog](http://jacobheil.github.io/pmp/) (another placeholder-under-construction). I want this stiching to be more streamlined, but I don't need it to be seamless. That's because I'm doing all of it in the name of practice. This could be much easier: I could download and customize a theme from [HTML5UP](http://html5up.net/) and be done with it. But I want to practice writing code. I want to practice using the command line and git for versioning. I want to be more fluent in GitHub. I want to learn some of the bare-bones tools that get me a little farther from my comfort with the famliar (WYSIWYG) interfaces. 
+## Getting Started
 
-Again, though, this is all of the philosophy behind it. Right now I'm too busy being the Ohio Five Digital Scholar -- working on [these projects](http://digitalscholarship.ohio5.org/oh5_projects/), writing on [this blog](http://digitalscholarship.ohio5.org/blog/) -- to put any of it into practice. But there will be time. 
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-full/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/full/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-full/blob/gh-pages/LICENSE) license.
