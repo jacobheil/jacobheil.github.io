@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Full HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/*
+body {
+    margin-top: 50px; 
+
+    } 
+*/
+    /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) 
+
+.full {
+    background: url('../images/dogs.20140420.1.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+*/
+
+
+.divider {
+    height:20px;
+    background-color: #D3D3D3;
+}
+
+
+section {
+    height:650px;
+    padding-top:0px;
+    padding-bottom:0px;
+    overflow:auto;
+}
+
+.paraDiv {
+	color:#000;
+	position: relative;
+}	
+
+.paraDiv .bg-1 {
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center bottom fixed;
+    color:#000;
+    background-size:cover;
+}
+  
+.paraDiv .bg-2 {
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center bottom fixed;
+    color:#000;
+    background-size:cover;
+}
+
+.paraDiv .bg-3 {
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center top fixed;
+	color:#000;
+    background-size:cover;
+    opacity: .25;   
+    position: absolute;
+    width: 100%;  
+}
+
+.paraDiv .bg-4 {
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center top fixed;
+	color:#000;
+    background-size:cover;
+    opacity: .25;
+    position: absolute;
+    width: 100%;  
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+  color:#efefef;
+}
+
+
+
