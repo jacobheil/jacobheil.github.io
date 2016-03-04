@@ -30,11 +30,43 @@
 
 </head>
 <body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" style="background: rgba(255, 255, 255, 0.3);" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header" >
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#" style=" color: black;">Jacob Heil</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a id="aboutlink" href="#">About</a>
+                </li>
+                <li>
+                    <a href="#" style=" color: black;">Services</a>
+                </li>
+                <li>
+                    <a href="#" style=" color: black;">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
 <!--parallax 1 -->
 <section class="paraDiv">
 <section class="bg-1 text-center">
-     <h1 class="">Bootstrap Parallax</h1>
-    <p class="lead">Add Some Motion</p>
+     <!-- text goes here -->
 </section>
 </section>
 <!--/parallax 1-->
@@ -106,7 +138,7 @@
 -->
 <section class="paraDiv">
 <section class="bg-2">   
-         <h1 class="">Keep Going</h1> 
+       <!-- text goes here -->
 </section>
 </section>
 <!--
@@ -173,16 +205,10 @@
 <div class="divider"></div>
 
 
-
+<div id="about"></div>
 <!--parallax 2 -->
 <section class="paraDiv text-center">
     <section class="bg-3"></section>
-        <div class="row" style="padding:100px;">
-            <div class="col-md-3 text-center">  
-                 <a href="https://github.com/jacobheil"><i class="fa fa-github fa-5x"></i>
-                 <h2>Github</h2></a>
-            </div>
-        </div>
     
 
 </section>
@@ -191,11 +217,12 @@
 <!--parallax 2 -->
 <section class="paraDiv text-center">
     <section class="bg-4"></section>
-     <h1 class="">Testing Fourth Wall</h1>
-
-    <p class="lead"></p>
-   
-
+            <div class="row" style="padding:100px;">
+            <div class="col-md-3 text-center">  
+                 <a href="https://github.com/jacobheil"><i class="fa fa-github fa-5x"></i>
+                 <h2>Github</h2></a>
+            </div>
+        </div>
 </section>
 
 <!--/parallax 2-->
@@ -212,5 +239,7 @@
 
 
 <script src="js/parallax_main.js"></script>
+<script src="js/smoothScroll.js"></script>
+
 </body>
 </html>
