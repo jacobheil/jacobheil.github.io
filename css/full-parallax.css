@@ -6,8 +6,9 @@
 
 
 body {
-    margin-top: 50px; 
-    font-family: 'Open Sans', sans-serif;
+    
+    font-family: 'Amatic SC', cursive;
+
 
     } 
 
@@ -51,19 +52,20 @@ a {
 }
 
 .paraDiv .bg-1 {
-	background: url('../images/dogs.20140419.1.jpg') no-repeat center bottom fixed;
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center center fixed;
     color:#000;
     background-size:cover;
+    padding-top: 100px;
 }
   
 .paraDiv .bg-2 {
-	background: url('../images/dogs.20140419.1.jpg') no-repeat center bottom fixed;
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center center fixed;
     color:#000;
     background-size:cover;
 }
 
 .paraDiv .bg-3 {
-	background: url('../images/dogs.20140419.1.jpg') no-repeat center top fixed;
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center center fixed;
 	color:#000;
     background-size:cover;
     opacity: .25;   
@@ -72,7 +74,7 @@ a {
 }
 
 .paraDiv .bg-4 {
-	background: url('../images/dogs.20140419.1.jpg') no-repeat center top fixed;
+	background: url('../images/dogs.20140419.1.jpg') no-repeat center center fixed;
 	color:#000;
     background-size:cover;
     opacity: .25;
